@@ -1,0 +1,12 @@
+[project]
+name = "project-deepresearchagent"
+version = "0.1.0"
+description = "Project Deep Research Agent"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "openai>=1.106.1",
+    "python-dotenv>=1.1.1",
+    "tavily-python>=0.7.11",
+]
