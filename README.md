@@ -450,17 +450,6 @@ uv add --workspace shared-lib
 
 ---
 
-## 🎉 You're Ready!
-
-Your Deep Research System is now properly set up with UV. Run your first research:
-
-```bash
-# The UV-native way
-uv run deep_research_system.py
-```
-
----
-
 ## 📋 Quick Reference Card
 
 ```bash
